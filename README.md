@@ -13,7 +13,7 @@ I enjoy transforming ideas into <b>scalable, clean, and secure solutions</b> —
 
 ---
 
-### 🧠 Tech Stack
+###  Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python" height="55" />
@@ -50,30 +50,7 @@ I enjoy transforming ideas into <b>scalable, clean, and secure solutions</b> —
 </div>
 
 ---
-
-### 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/chaimae-mouhssine" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="28" />
-  </a>
-  <a href="mailto:Chaimaemouhssine60@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="28" />
-  </a>
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHAIMAEMOUHSSINE&show_icons=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAIMAEMOUHSSINE&layout=compact&theme=dracula&hide_border=false" height="150" />
-</div>
-
-
-
-### 🐍 Contribution Graph
+###  Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
@@ -85,5 +62,28 @@ I enjoy transforming ideas into <b>scalable, clean, and secure solutions</b> —
 </picture>
 
 ---
+### 🌐 Connect With Me
+
+<div align="center">
+  <a href="www.linkedin.com/in/chaimae-mouhssine-b305a22a8" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+  <a href="mailto:Chaimaemouhssine60@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+</div>
+
+---
+
+###  GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CHAIMAEMOUHSSINE&show_icons=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAIMAEMOUHSSINE&layout=compact&theme=dracula&hide_border=false" height="150" />
+</div>
+
+
+
+
 
 ✨ <i>Always learning. Always building. Always improving.</i>
