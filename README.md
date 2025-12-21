@@ -1,97 +1,89 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
 <h3 align="center">
-I'm <b>Chaimae Mouhssine</b><br/>
+I'm <b>Chaimae Mouhssine</b> 🌸<br/>
 Software & Data Engineering Student @ ENSET
 </h3>
 
 <p align="center">
-I’m passionate about building <b>intelligent, data-driven applications</b> and exploring how 
-<b>AI, software engineering, and cloud technologies</b> work together to solve real-world problems.
-I enjoy transforming ideas into <b>scalable, clean, and secure solutions</b> — from data processing to modern web applications.
+💡 I build <b>intelligent, data-driven applications</b> <br/>
+🤖 I explore <b>AI, Data & Cloud technologies</b> <br/>
+✨ I turn ideas into <b>clean, scalable & secure solutions</b>
 </p>
 
 ---
 
-### 🧠 Tech Stack
+### 🌸 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=java" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=c" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=react" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=flask" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=docker" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=linux" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=git" height="55" />
+  <img src="https://skillicons.dev/icons?i=python&theme=light" height="55" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java&theme=light" height="55" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js&theme=light" height="55" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react&theme=light" height="55" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask&theme=light" height="55" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=light" height="55" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase&theme=light" height="55" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=light" height="55" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=light" height="55" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=light" height="55" />
 </div>
 
 ---
 
-### 🌐 Connect With Me
+### 💌 Connect With Me
 
 <div align="center">
   <a href="https://linkedin.com/in/chaimae-mouhssine" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="28" />
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?logo=linkedin&logoColor=white&style=for-the-badge" height="28" />
   </a>
   <a href="mailto:Chaimaemouhssine60@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="28" />
+    <img src="https://img.shields.io/badge/Gmail-FFB6C1?logo=gmail&logoColor=white&style=for-the-badge" height="28" />
   </a>
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 🌷 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHAIMAEMOUHSSINE&show_icons=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAIMAEMOUHSSINE&layout=compact&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CHAIMAEMOUHSSINE&show_icons=true&theme=rose_pine&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHAIMAEMOUHSSINE&theme=rose_pine&hide_border=true" height="150" />
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CHAIMAEMOUHSSINE&theme=dracula&row=1&column=6" />
-</div>
-
----
-
-### 🐍 Contribution Graph
+### 🎮 Contribution Game
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
           srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" 
           srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" 
+  <img alt="cute contribution snake animation" 
        src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
 
-✨ <i>Always learning. Always building. Always improving.</i>
+### ✨ Fun Zone
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="220" />
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="220" />
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="220" />
+</div>
+
+---
+
+<p align="center">
+🌸 <i>Code with passion. Build with purpose. Shine with confidence.</i> 🌸
+</p>
