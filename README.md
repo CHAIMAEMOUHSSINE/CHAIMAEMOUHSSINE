@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">Hey there👋 What's Up?</h1>
 
 <h3 align="center">
 I'm <b>Chaimae Mouhssine</b><br/>
@@ -56,7 +56,6 @@ I enjoy transforming ideas into <b>scalable, clean, and secure solutions</b> —
   <img src="https://github-readme-stats.vercel.app/api?username=CHAIMAEMOUHSSINE&show_icons=true&theme=dracula&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAIMAEMOUHSSINE&layout=compact&theme=dracula&hide_border=false" height="150" />
 </div>
-###  Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
@@ -67,7 +66,7 @@ I enjoy transforming ideas into <b>scalable, clean, and secure solutions</b> —
        src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
 
----
+
 ### 🌐 Connect With Me
 
 <div align="center">
@@ -78,13 +77,6 @@ I enjoy transforming ideas into <b>scalable, clean, and secure solutions</b> —
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="28" />
   </a>
 </div>
-
----
-
-
-
-
-
 
 
 ✨ <i>Always learning. Always building. Always improving.</i>
