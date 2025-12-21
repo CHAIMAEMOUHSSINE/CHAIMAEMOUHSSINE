@@ -50,6 +50,12 @@ I enjoy transforming ideas into <b>scalable, clean, and secure solutions</b> —
 </div>
 
 ---
+###  GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CHAIMAEMOUHSSINE&show_icons=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAIMAEMOUHSSINE&layout=compact&theme=dracula&hide_border=false" height="150" />
+</div>
 ###  Contribution Graph
 
 <picture>
@@ -75,12 +81,7 @@ I enjoy transforming ideas into <b>scalable, clean, and secure solutions</b> —
 
 ---
 
-###  GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHAIMAEMOUHSSINE&show_icons=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAIMAEMOUHSSINE&layout=compact&theme=dracula&hide_border=false" height="150" />
-</div>
 
 
 
