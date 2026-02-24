@@ -1,11 +1,12 @@
-# 👋 Hello, I'm Chaimae Mouhssine
+<h1 align="center">Hey You 👋 What's Up?</h1>
 
-             ### **Software & AI Engineering Student**
+<h3 align="center">
+I'm <b>Chaimae Mouhssine</b><br/>
+Software & Ai Engineering Student @ ENSET Mohammedia
+</h3>
 
----
+<p align="center">
+I’m passionate about exploring how <b>AI, software engineering,DevOps and cloud Computing technologies</b> work together to solve real-world problems.
+I enjoy transforming ideas into <b>scalable, clean, and secure solutions .</b> 
+</p>
 
-I’m passionate about exploring how **AI, Software Engineering, DevOps, and Cloud Computing** work together to solve real-world problems. 
-
-I enjoy transforming ideas into **scalable, clean, and secure solutions.**
-
-*✨ Always learning. Always building. Always improving.*
